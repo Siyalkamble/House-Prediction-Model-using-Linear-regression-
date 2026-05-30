@@ -157,7 +157,7 @@ house-price-predictor/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/house-price-predictor
+git clone https://github.com/Siyalkamble/house-price-predictor
 
 # Install dependencies
 pip install pandas numpy scikit-learn matplotlib
